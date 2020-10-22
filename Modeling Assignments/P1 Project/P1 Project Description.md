@@ -16,7 +16,7 @@ Machine builders regularly purchase such units and integrate them into machines.
 ## Requirements
 - Join a team
 - The team leader will start a new document named Team X (usernames) P1 Project with your team's number and the usernames of all team members
-- The document will need to be shared (keep it private) with all team members and Mr. Brady so they have full edit, copy, comment, and export privileges
+- The document will need to be shared (keep it private) with all team members and the instructor so they have full edit, copy, comment, and export privileges
 - Set the workspace units to mm and kg
 - Create a comment or multiple comments in your document that indicate what parts each member is creating
 - If desired, create a folder for each team member to place their part models
@@ -64,7 +64,7 @@ Machine builders regularly purchase such units and integrate them into machines.
     - Ball nut
 - Once assembled, the spindle shaft should be able to rotate, the slide plate should be able to slide but stop at the appropriate positions, and the ball screw should rotate when the slide plate is moved (5mm of slide travel per 1 revolution)
 - Check each other's work; create comments that indicate whose models each team member is going to check (not their own)
-- Create a checking version for each team member called Checking Member's Name Work, i.e. Checking Brady's Work and create specific checking comments in that version for each issue that was found with that member's parts and assembly contributions
+- Create a checking version for each team member called Checking Member's Name Work, i.e. Checking Jess's Work and create specific checking comments in that version for each issue that was found with that member's parts and assembly contributions
 - Each member must address all of the comments that were created regarding their parts and click on the resolved checkbox for each when done (do not delete comments)
 
 ## Provided References
